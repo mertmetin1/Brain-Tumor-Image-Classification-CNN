@@ -1,0 +1,11 @@
+Category,Value
+Batch Size,32
+Number of Epochs,1
+Learning Rate,0.001
+Number of Classes,4
+Device,cuda
+Best Validation Accuracy,74.89%
+Final Validation Accuracy,74.89%
+Final Training Loss,0.8563
+Final Validation Loss,0.5722
+ROC-AUC (per class),"{'glioma': '0.89', 'meningioma': '0.70', 'notumor': '0.93', 'pituitary': '0.96'}"
