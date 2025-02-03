@@ -81,18 +81,27 @@ python testSample.py --image_path path/to/image.jpg
 ---
 ## 📊 Visualization & Evaluation
 - **Confusion Matrix** (`plots/confusion_matrix.png`)
+- ![resim](https://github.com/user-attachments/assets/266b0b52-3af6-4cbb-8f33-508e0fd7b666)
+
 - **ROC Curves** (`plots/roc_curve.png`)
+- ![resim](https://github.com/user-attachments/assets/668599fc-3603-45f1-9fb4-d6896d871ded)
+
 - **Class-wise Performance** (`plots/per_class_accuracy.png`)
+- ![resim](https://github.com/user-attachments/assets/590782b5-b116-4e71-8b16-de2aef67ae4d)
+
 - **Grad-CAM Heatmaps** (`plots/grad_cam/`)
+- ![resim](https://github.com/user-attachments/assets/29b68acf-0604-4bdb-bdb4-c48688da97a8)
+
+
 
 ---
 ## 📈 Model Performance
 | Metric                 | Value |
 |------------------------|-------|
-| Best Validation Accuracy | **X.XX%** |
-| Final Training Loss   | **X.XX** |
-| Final Validation Loss | **X.XX** |
-| Test Accuracy        | **X.XX%** |
+| Best Validation Accuracy | **97.46%** |
+| Final Training Loss   | **0.0272** |
+| Final Validation Loss | **0.1888** |
+| Test Accuracy        | **98.63%** |
 
 ---
 ## 🤖 Model Architecture
