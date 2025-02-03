@@ -29,7 +29,7 @@ This project implements a **deep learning-based MRI tumor classification model**
 ## 🔧 Installation & Setup
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/MRI-Tumor-Classification.git
+git clone https://github.com/mertmetin1/MRI-Tumor-Classification.git
 cd MRI-Tumor-Classification
 ```
 
